@@ -187,9 +187,11 @@ main {
     line-height: 0;
 }
 
-
-
-
+#signup{
+height:600px;
+width:100%;
+background: url("../images/signup-image.webp") no-repeat center center / cover;
+}
 /* Footer*/
 footer {
   #social-networks {
